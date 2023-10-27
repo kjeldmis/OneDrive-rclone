@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=OneDrive
+Exec=sh -c "rclone --vfs-cache-mode writes mount OneDrive: ~/OneDrive &"
+Terminal=false
+Type=Application
+X-Desktop-File-Install-Version=0.24
